@@ -3,7 +3,7 @@ Authors: Hrayr Muradyan, Azin Piran, Sopuruchi Chisom, Shengjia Yu.
 
 # About
 
-In this project we try to predict US airline customer satisfaction based on several factors like: gender, age, travel class, etc.
+In this project we are trying to predict US airline customer satisfaction based on several factors like: gender, age, travel class, etc.
 Understanding customer satisfaction is very important for airlines as it provides directions to improve the service and equipment. 
 The right improvement, subsequently, will increase the revenue. Additionally, it will be easier to build customer loyalty.
 Loyal customers often promote the airline through word-of-mouth or positive reviews, reducing the cost of acquiring new customers (Sadegh Eshaghi, 2024). 
